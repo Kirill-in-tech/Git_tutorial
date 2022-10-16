@@ -1,0 +1,15 @@
+C:\Users\Kirill.in.tech\Git_test\cstest\bin\Debug\net6.0\cstest.exe
+C:\Users\Kirill.in.tech\Git_test\cstest\bin\Debug\net6.0\cstest.deps.json
+C:\Users\Kirill.in.tech\Git_test\cstest\bin\Debug\net6.0\cstest.runtimeconfig.json
+C:\Users\Kirill.in.tech\Git_test\cstest\bin\Debug\net6.0\cstest.dll
+C:\Users\Kirill.in.tech\Git_test\cstest\bin\Debug\net6.0\cstest.pdb
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.csproj.AssemblyReference.cache
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.AssemblyInfoInputs.cache
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.AssemblyInfo.cs
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.csproj.CoreCompileInputs.cache
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.dll
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\refint\cstest.dll
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.pdb
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\cstest.genruntimeconfig.cache
+C:\Users\Kirill.in.tech\Git_test\cstest\obj\Debug\net6.0\ref\cstest.dll
